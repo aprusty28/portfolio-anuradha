@@ -1,0 +1,26 @@
+[
+    {
+      "title": "E-Commerce App",
+      "imageSrc": "projects/ecomm.png",
+      "description": "This is E2E full stack ecommerce web application.",
+      "skills": ["React", "Express", "Node","MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Taskify App",
+      "imageSrc": "projects/taskify.png",
+      "description": "This is a todo app made using typescript with the use of drag drop API.",
+      "skills": ["React", "Typescript", "Hooks"],
+      "demo": "https://66206ad1ccc8a558a42c3b5a--brilliant-concha-e20b1e.netlify.app/",
+      "source": "https://github.com/aprusty28/todoapp"
+    },
+    {
+      "title": "Bootstrap Project",
+      "imageSrc": "projects/bootstrap.png",
+      "description": "This project is made to learn latest css frameworks like bootstrap.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://vermillion-bonbon-3a947a.netlify.app/#top",
+      "source": "https://github.com/aprusty28/Bootstrap-project"
+    }
+  ]

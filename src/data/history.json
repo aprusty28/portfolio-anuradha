@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Full Stack Developer",
+      "organisation": "Rnd4impact Inc",
+      "startDate": "Feb, 2024",
+      "endDate": "Present",
+      "experiences": ["Designed e-commerece application", "Worked on SPA's"],
+      "imageSrc": "history/rnd.png"
+    },
+    {
+      "role": "Full Stack Engineer",
+      "organisation": "Amdocs",
+      "startDate": "Aug, 2021",
+      "endDate": "Aug, 2022",
+      "experiences": ["Implemented nodeJs APIs", "Enhanced application performance by 30%"],
+      "imageSrc": "history/amdocs.jpg"
+    },
+    {
+      "role": "Application Development Analyst",
+      "organisation": "Accenture",
+      "startDate": "Feb, 2018",
+      "endDate": "Aug, 2021",
+      "experiences": [
+        "Designed e2e ETL platform",
+        "Automated 90% of manual work using shell scripting"
+      ],
+      "imageSrc": "history/accenture.png"
+    }
+  ]

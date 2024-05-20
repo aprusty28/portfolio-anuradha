@@ -1,0 +1,25 @@
+@import "../../vars.css";
+
+.content {
+    color: var(--color-text);
+    display: flex;
+    gap: 20px;
+    list-style: none;
+
+}
+
+.parent {
+    color: var(--color-text);
+}
+
+.floatedleft {
+    float: left;
+}
+
+.floatedright {
+    float: right;
+}
+
+.clearfix {
+    clear: both;
+}
