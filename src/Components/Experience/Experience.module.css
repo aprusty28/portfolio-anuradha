@@ -1,5 +1,7 @@
 @import "../../vars.css";
 
+
+
 .container {
     color: var(--color-text);
     margin-top: 79px;
@@ -9,8 +11,8 @@
 
 .title {
     color: var(--color-text);
-    font-size: 35px;
-    font-weight: 700;
+    font-size: 32px;
+    font-weight: 600;
     letter-spacing: 1.75px;
     text-transform: uppercase;
 }
@@ -52,7 +54,7 @@
 .skill p {
     font-size: 25px;
     font-family: var(--font-roboto);
-    font-weight: 500;
+    font-weight: 400;
 }
 
 .history {
@@ -84,13 +86,13 @@
 }
 
 .historyItemDetails h3 {
-    font-size: 30px;
-    font-weight: 500;
+    font-size: 27px;
+    font-weight: 400;
 }
 
 .historyItemDetails p {
-    font-size: 20px;
-    font-weight: 300;
+    font-size: 18px;
+    font-weight: 200;
 }
 
 .historyItemDetails ul {
@@ -146,4 +148,4 @@
     .container {
         margin-top: 16px;
     }
-}
+}  

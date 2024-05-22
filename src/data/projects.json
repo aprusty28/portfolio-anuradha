@@ -5,7 +5,7 @@
       "description": "This is E2E full stack ecommerce web application.",
       "skills": ["React", "Express", "Node","MongoDB"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/aprusty28/ecomm"
     },
     {
       "title": "Taskify App",
