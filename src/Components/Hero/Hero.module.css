@@ -21,7 +21,7 @@
 }
 
 .title {
-    font-size: 45px;
+    font-size: 40px;
     font-weight: 900;
     margin-bottom: 33px;
     font-family: var(--font-roboto);
@@ -45,15 +45,16 @@
     color: var(--color-text);
     border-radius: 100px;
     font-weight: 600;
-    font-size: 30px;
+    font-size: 28px;
     padding: 17px 26px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0 , 0.25);
+    margin-top: -10px;
 
 }
 
 .heroImg {
-    width: 30%;
-    height: 50%;
+    width: 25%;
+    height: 45%;
     border-radius: 200px;
     z-index: 1;
 
@@ -114,11 +115,18 @@
         align-items: center;
     }
     .title {
-        margin-top: 30px;
-        font-size: 45px;
+        margin-top: 25px;
+        font-size: 35px;
     }
     
     .description {
-        font-size: 20px;
+        font-size: 18px;
+    }
+    .contactBtn {
+        font-weight: 500;
+        font-size: 25px;
+        padding: 14px 22px;
+        margin-top: -10px;
+    
     }
 }

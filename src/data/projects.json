@@ -2,7 +2,7 @@
     {
       "title": "E-Commerce App",
       "imageSrc": "projects/ecomm.png",
-      "description": "This is E2E full stack ecommerce web application.",
+      "description": "Full stack e-commerce web app with robust backend architecture and seamless user experience.",
       "skills": ["React", "Express", "Node","MongoDB"],
       "demo": "https://www.example.com",
       "source": "https://github.com/aprusty28/ecomm"
