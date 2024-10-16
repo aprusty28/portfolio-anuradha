@@ -29,6 +29,34 @@
       "imageSrc": "skills/css.png"
     },
     {
+      "title": "AWS",
+      "imageSrc": "skills/aws.png"
+    },
+    {
+      "title": "NextJS",
+      "imageSrc": "skills/nextjs.webp"
+    },
+    {
+      "title": "Javascript",
+      "imageSrc": "skills/javascript.webp"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.webp"
+    },
+    {
+      "title": "Tailwind",
+      "imageSrc": "skills/tailwind.png"
+    },
+    {
+      "title": "Typescript",
+      "imageSrc": "skills/typescript.png"
+    },
+    {
+      "title": "Jest",
+      "imageSrc": "skills/jest.png"
+    },
+    {
         "title": "GCP",
         "imageSrc": "skills/gcp.png"
       }

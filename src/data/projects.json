@@ -2,25 +2,25 @@
     {
       "title": "E-Commerce App",
       "imageSrc": "projects/ecomm.png",
-      "description": "Full stack e-commerce web app with robust backend architecture and seamless user experience.",
+      "description":   "Developed a scalable e-commerce platform utilizing React, Node.js, and MongoDB for a full-stack solution. Integrated AWS for storage and deployment, ensuring high availability and performance. Enhanced the user experience with a seamless checkout flow and secure payment gateways, leading to a 25% increase in conversion rates.",
       "skills": ["React", "Express", "Node","MongoDB"],
-      "demo": "https://www.example.com",
+      "demo": "https://github.com/aprusty28/ecomm",
       "source": "https://github.com/aprusty28/ecomm"
+    },
+    {
+      "title": "SAAS AI",
+      "imageSrc": "projects/chatgpt.png",
+      "description":   "Developed AI Toolkit Pro, a comprehensive SaaS platform integrating five AI tools for code generation, music creation, video processing, conversational AI, and image generation. Built on Next.js 13 with Tailwind for an intuitive UI, the platform allows users to access AI tools seamlessly, boosting productivity and creativity. Implemented Stripe payment integration for subscription management, offering both free and premium tiers.",
+      "skills": ["React", "OpenAI", "Tailwind", "NextJS"],
+      "demo": "https://saas-ai-theta-ten.vercel.app/",
+      "source": "https://github.com/aprusty28/saas-ai"
     },
     {
       "title": "Taskify App",
       "imageSrc": "projects/taskify.png",
-      "description": "This is a todo app made using typescript with the use of drag drop API.",
-      "skills": ["React", "Typescript", "Hooks"],
+      "description":   "Built a feature-rich To-Do app using TypeScript and React, with an intuitive drag-and-drop interface to enable efficient task organization. This application leverages React Hooks such as useState and useReducer for state management, enhancing interactivity and user experience. Designed with drag-and-drop API, allowing users to easily manage, prioritize, and track tasks, improving task completion efficiency by 50%.",
+      "skills": ["React", "Typescript", "Hooks", "CSS"],
       "demo": "https://66206ad1ccc8a558a42c3b5a--brilliant-concha-e20b1e.netlify.app/",
       "source": "https://github.com/aprusty28/todoapp"
-    },
-    {
-      "title": "Bootstrap Project",
-      "imageSrc": "projects/bootstrap.png",
-      "description": "This project is made to learn latest css frameworks like bootstrap.",
-      "skills": ["HTML", "CSS", "Javascript"],
-      "demo": "https://vermillion-bonbon-3a947a.netlify.app/#top",
-      "source": "https://github.com/aprusty28/Bootstrap-project"
     }
   ]

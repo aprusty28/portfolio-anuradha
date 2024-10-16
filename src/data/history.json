@@ -4,7 +4,8 @@
       "organisation": "Rnd4impact Inc",
       "startDate": "Feb, 2024",
       "endDate": "Present",
-      "experiences": ["Designed e-commerece application", "Worked on SPA's"],
+      "experiences": ["Designed an e-commerce platform using front-end technologies like React, increasing customer engagement, and developed the backend using Node and Express, reducing server response time by 30%."
+      ,"Created efficient single-page applications (SPAs) using React.js, enhancing user experience by 30%, and implemented client-side routing with libraries like React Router for smooth navigation and minimized server requests."],
       "imageSrc": "history/rnd.png"
     },
     {
@@ -12,18 +13,21 @@
       "organisation": "Amdocs",
       "startDate": "Aug, 2021",
       "endDate": "Aug, 2022",
-      "experiences": ["Implemented nodeJs APIs", "Enhanced application performance by 30%"],
+      "experiences": ["Engineered RESTful APIs, leveraging web services to ensure seamless communication between frontend and backend systems, and integrating with MongoDB for efficient data management, reducing data retrieval time by 20%."
+      ,"Collaborated with design and development teams to integrate Tailwind CSS with Next.js, ensuring pixel-perfect implementation of UI/UX designs."
+    ],
       "imageSrc": "history/amdocs.jpg"
     },
     {
-      "role": "Application Development Analyst",
+      "role": "Full Stack Developer",
       "organisation": "Accenture",
       "startDate": "Feb, 2018",
       "endDate": "Aug, 2021",
       "experiences": [
-        "Designed e2e ETL platform",
-        "Automated 90% of manual work using shell scripting"
-      ],
+        "Developed and maintained complex web applications using React, resulting in a 30% improvement in user engagement and a 25% reduction in page load times.","Designed and implemented backend services in Node js, enhancing system performance by 20% and reducing response times for critical APIs by 15%."
+,"Deployed and managed cloud-based applications on AWS, optimizing resource usage and reducing operational costs by 20%."
+,"Utilized advanced JavaScript (ES6+) techniques to create dynamic and interactive web components, improving client-side performance by 30%."],
       "imageSrc": "history/accenture.png"
     }
   ]
+
