@@ -4,7 +4,7 @@
       "imageSrc": "projects/ecomm.png",
       "description":   "Developed a scalable e-commerce platform utilizing React, Node.js, and MongoDB for a full-stack solution. Integrated AWS for storage and deployment, ensuring high availability and performance. Enhanced the user experience with a seamless checkout flow and secure payment gateways, leading to a 25% increase in conversion rates.",
       "skills": ["React", "Express", "Node","MongoDB"],
-      "demo": "https://github.com/aprusty28/ecomm",
+      "demo": "https://drive.google.com/file/d/1Sp2ki1_a8qCwCdkK2HN9v4vkvGf4QoOQ/view",
       "source": "https://github.com/aprusty28/ecomm"
     },
     {
